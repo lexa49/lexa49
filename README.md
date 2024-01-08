@@ -17,7 +17,7 @@
 
 <h2 align="center">⚡ Social media</h2>
 <p align="center">
-  <a href="https://discord.com//user/1060647917838413926" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-white.svg?&style=for-the-badge&style-white&logo=discord&logoColor=black"></a>
+  <a href="https://discord.com/channels/@me/1060647917838413926" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-white.svg?&style=for-the-badge&style-white&logo=discord&logoColor=black"></a>
   <a href="https://open.spotify.com/user/31l7dzq2uhsq3h4myiwxpmivzpom?si=0b975dbf20dc4f47" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-white.svg?&style=for-the-badge&logo=spotify&logoColor=black"></a>
   <a href="https://twitter.com/sucklu_yumurta" target"blank_"><img width="15%" src="https://img.shields.io/badge/Twitter%20-white.svg?&style=for-the-badge&style-white&logo=twitter&logoColor=black"></a>
  <a href="https://www.instagram.com/sucuklu_yumurta_diye_biri/" target"blank_"><img width="18%" src="https://img.shields.io/badge/Instagram%20-white.svg?&style=for-the-badge&logo=instagram&logoColor=black"></a>
