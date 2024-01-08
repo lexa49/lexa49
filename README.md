@@ -23,15 +23,6 @@
  <a href="https://www.instagram.com/sucuklu_yumurta_diye_biri/" target"blank_"><img width="18%" src="https://img.shields.io/badge/Instagram%20-white.svg?&style=for-the-badge&logo=instagram&logoColor=black"></a>
 <p>   
 
-<h2 align="center">
- <a href="https://discord.com/users/1060647917838413926"><img  width="400px" src="https://lanyard.kyrie25.me/api/1060647917838413926?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Sucuklu Yumurta"></a>
-<a href="https://discord.com/users/757711595668242602"><img  width="400px" src="https://lanyard.kyrie25.me/api/757711595668242602?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Lexa"></a>
-<br> </br>
-<a href="https://open.spotify.com/user/31l7dzq2uhsq3h4myiwxpmivzpom?si=a45ee481e5b244d5" align="center"> <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31l7dzq2uhsq3h4myiwxpmivzpom?si=a45ee481e5b244d5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></a>
- </h2>
-
-
-
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=lexa49&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117">
 
 <img align="left" width="45%" src="https://count.getloli.com/get/@:lexa49?theme=asoul"> 
